@@ -1,6 +1,8 @@
 #### Golang Connection Limit Stress
 
-The environment variables for the program needs to be set at `.env`
+Usage:
+- The environment variables for the program needs to be set at `.env`
+- Execute main.exe
 
 On a little modification the program could be made into Denial of service script.
 
